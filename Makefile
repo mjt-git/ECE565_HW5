@@ -1,4 +1,4 @@
-CXXFLAGS=-std=c++11 -Wall -pedantic -pthread
+CXXFLAGS=-std=c++11 -Wall -pedantic -pthread -fopenmp
 
 all: rainfall_seq rainfall_pt
 
